@@ -2,6 +2,8 @@
 
 import os
 
+VERSION = "0.0.2"
+
 CODE = """
 
 @echo off
