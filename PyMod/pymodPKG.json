@@ -1,0 +1,7 @@
+
+{
+    "__dict__": "${__dir__}",
+    "run": {
+        "start": "py test.py"
+    }
+}
