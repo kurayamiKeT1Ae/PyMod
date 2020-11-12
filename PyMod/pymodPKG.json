@@ -1,7 +1,8 @@
 
 {
-    "__dict__": "${__dir__}",
+    "__dir__": "${__dir__}",
+    "ignore": ["pymod.bat", "pymodinit.py", "pymodrun.py"],
     "run": {
-        "start": "py ../test.py"
+        "run": "py test.py"
     }
 }
